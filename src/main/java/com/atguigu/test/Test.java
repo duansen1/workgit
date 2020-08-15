@@ -10,5 +10,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("git");
         System.out.println("修改代码");
+        System.out.println("b1第一次");
     }
 }
